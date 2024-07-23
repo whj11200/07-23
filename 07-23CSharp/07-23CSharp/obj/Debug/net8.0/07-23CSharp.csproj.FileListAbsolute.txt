@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\bin\Debug\net8.0\07-23CSharp.exe
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\bin\Debug\net8.0\07-23CSharp.deps.json
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\bin\Debug\net8.0\07-23CSharp.runtimeconfig.json
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\bin\Debug\net8.0\07-23CSharp.dll
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\bin\Debug\net8.0\07-23CSharp.pdb
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.dll
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\refint\07-23CSharp.dll
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.pdb
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\07-23CSharp.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\07-23CSharp\07-23CSharp\obj\Debug\net8.0\ref\07-23CSharp.dll
